@@ -1,0 +1,19 @@
+hibernate --> database framework for java 
+
+java --> sql --> framework -> db -> hibernate 
+
+
+class object -->
+
+
+UserClass ==== UserTable 
+obj	::save:: insert 
+delete :: delete 
+find :: select  
+
+
+ORM -> object relational mapping -> 
+
+
+Entity --- table 
+Repository --- dao 
