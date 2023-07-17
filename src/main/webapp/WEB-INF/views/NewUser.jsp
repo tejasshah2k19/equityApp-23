@@ -18,5 +18,8 @@
 	<input type="submit" value="Save User"/>
 
 </form>
+
+<Br><br>
+<a href="listusers">List Users</a>
 </body>
 </html>
