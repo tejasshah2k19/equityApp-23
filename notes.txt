@@ -17,3 +17,11 @@ ORM -> object relational mapping ->
 
 Entity --- table 
 Repository --- dao 
+
+---------------------------------
+
+
+bcrypt -> royal -> XER$##$SDLSFDFDFLDFLDFD ->
+       -> royal -> SDFSD@$EWRF%EDFDSDFSDFS ->  
+
+
